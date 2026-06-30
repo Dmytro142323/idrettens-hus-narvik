@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dmytro142323.github.io/idrettens-hus-narvik/sitemap.xml
